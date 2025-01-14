@@ -1,0 +1,17 @@
+---
+collections:
+  - ansible.posix
+  - ansible.security
+  - ansible.utils
+  - ansible.netcommon
+  - ansible.windows
+
+  - community.general
+  - community.mysql
+  - community.vmware
+  - community.windows
+  - community.crypto
+
+  - ibm.qradar
+  - splunk.es
+  - trendmicro.deepsec
