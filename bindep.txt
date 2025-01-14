@@ -1,0 +1,14 @@
+gcc-c++             [platform:rpm]
+subversion          [platform:rpm]
+subversion          [platform:dpkg]
+git-lfs             [platform:rpm]
+rsync
+python3-lxml
+krb5-devel [platform:rpm]
+3libkrb5-dev [platform:dpkg]
+python3-dev [platform:dpkg]
+python3-devel [platform:rpm]
+
+ghostscript [platform:rpm]
+enscript [platform:rpm]
+
